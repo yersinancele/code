@@ -1,3 +1,4 @@
-SELECT *
-FROM employees;
+-- Salaires --
 
+SELECT first_name, last_name, salary
+FROM employees;
